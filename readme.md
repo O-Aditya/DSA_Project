@@ -16,12 +16,13 @@ The Algorithm Visualizer allows users to visualize various sorting algorithms in
 
 ### Usage
 1. Run the `Algorithm_Visualizer.py` script:
+ 
     ```sh
     streamlit run Algorithm_Visualizer.py
     ```
-2. Use the sidebar to configure the array size, speed, and sorting algorithm.
-3. Click "Generate New Array" to create a new random array.
-4. Click "Start Visualization" to begin the sorting visualization.
+3. Use the sidebar to configure the array size, speed, and sorting algorithm.
+4. Click "Generate New Array" to create a new random array.
+5. Click "Start Visualization" to begin the sorting visualization.
 
 ## File Compression Tool
 
@@ -34,12 +35,13 @@ The File Compression Tool allows users to compress and decompress files using Hu
 
 ### Usage
 1. Run the `file_compression.py` script:
+ 
     ```sh
     streamlit run file_compression.py
     ```
-2. Choose an operation: "Compress File" or "Decompress File".
-3. Upload the file to compress or decompress.
-4. Download the resulting file.
+3. Choose an operation: "Compress File" or "Decompress File".
+4. Upload the file to compress or decompress.
+5. Download the resulting file.
 
 ## Requirements
 
@@ -52,17 +54,19 @@ The File Compression Tool allows users to compress and decompress files using Hu
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/O-Aditya/DSA_Project
     ```
 2. Navigate to the project directory:
+ 
     ```sh
     cd <project-directory>
     ```
-3. Create a virtual environment:
+4. Create a virtual environment:
+ 
     ```sh
     python -m venv venv
     ```
-4. Activate the virtual environment:
+6. Activate the virtual environment:
     - On Windows:
         ```sh
         venv\Scripts\activate
@@ -71,7 +75,7 @@ The File Compression Tool allows users to compress and decompress files using Hu
         ```sh
         source venv/bin/activate
         ```
-5. Install the required packages:
+7. Install the required packages:
     ```sh
     pip install -r requirements.txt
     ```
