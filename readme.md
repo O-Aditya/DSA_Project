@@ -9,6 +9,9 @@ The Algorithm Visualizer allows users to visualize various sorting algorithms in
 - Selection Sort
 - Insertion Sort
 
+![Screenshot 2025-01-10 162318](https://github.com/user-attachments/assets/d388aa10-23ab-479d-b3f0-d69bf584c684)
+
+
 ### Features
 - Visualize sorting algorithms step-by-step.
 - Adjust the array size and speed of visualization.
