@@ -36,6 +36,9 @@ The File Compression Tool allows users to compress and decompress files using Hu
 - Decompress files that were compressed using the tool.
 - Download the compressed and decompressed files.
 
+  ![Screenshot 2025-01-10 163857](https://github.com/user-attachments/assets/23c02e02-4622-42ec-bb0c-ba124168bb04)
+
+
 ### Usage
 1. Run the `file_compression.py` script:
  
